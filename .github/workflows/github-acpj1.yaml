@@ -1,5 +1,5 @@
 name: myfirstghpj
-on: [push]
+on: push
 jobs:
   name: install
     runs-on: ubuntu-latest
